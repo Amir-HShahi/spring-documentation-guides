@@ -1,7 +1,11 @@
 # Greeting
 
 RESTful web service that respond with a JSON representation of a greeting HTTP
-get [request](http://localhost:8080/greeting?name=User).
+get request.
+
+```markdown
+http://localhost:8080/greeting?name=User
+```
 
 ```json
 {
