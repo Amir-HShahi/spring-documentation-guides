@@ -18,7 +18,7 @@ public class ScheduledTasks {
     // for one-time task its sufficient to add "initialDelay"
     // cron is for specific times of month, week and ... [READ MORE]
     // it is milliseconds
-    @Scheduled(fixedDelay = 3000, initialDelay = 3000)
+    @Scheduled(fixedDelay = 3000, initialDelay = 2000)
     public void reportCurrentTime() {
         log.info("Method triggered at {}", dateFormat.format(new Date()));
     }
