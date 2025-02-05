@@ -9,3 +9,7 @@ This [guide](https://spring.io/guides/gs/rest-service) walks you through the pro
 ## 2. [Scheduling Tasks](https://github.com/Amir-HShahi/spring-documentation-guides/tree/master/scheduling-tasks)
 
 This [guide](https://spring.io/guides/gs/scheduling-tasks) walks you through the steps for scheduling tasks.
+
+## 3. [Quotation](https://github.com/Amir-HShahi/spring-documentation-guides/tree/master/quotation)
+
+This [guide](https://spring.io/guides/gs/consuming-rest) walks you through the process of creating an application that consumes a RESTful web service.
